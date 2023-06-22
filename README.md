@@ -1,2 +1,1 @@
-# dl_projects
-Single Neuron Model
+# dl_project
